@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/Interest-AI%20Security-purple?style=flat&logo=robot" alt="Interest: AI Security" />
 </p>
 
----
-
 ## 🧑‍💻 About Me
 
 - 🔒 网络安全工程师，专注于 **渗透测试、红队攻防、安全开发与安全运营**
@@ -16,8 +14,6 @@
 - 🚀 主力语言为 **Rust**（追求内存安全与高并发），**Python** 作为快速原型辅助
 - 🤖 正在探索 **大模型（LLM）在网络安全中的应用**，如智能漏洞分析、日志理解、自动化响应、渗透测试
 - 💪 持续学习，不断构建更高效、更安全的工具链
-
----
 
 ## 🛠️ Skills
 
@@ -31,8 +27,6 @@
   <img src="https://img.shields.io/badge/-Celery-4E983E" alt="Celery" />
   <img src="https://img.shields.io/badge/-Langchain-FFC107" alt="Langchain" />
 </p>
-
----
 
 ## 🚀 Featured Projects
 
